@@ -18,12 +18,12 @@ export default function Home() {
 
         </div>
         <div>
-                  <Button variant="elevated">
-            have Sex
+          <Button variant="elevated" >
+            Have Fun
           </Button>
           </div>
 
-        <Input placeholder="I am the inout ">
+        <Input  placeholder="I am the input " >
         </Input>
         <div>
 
@@ -32,15 +32,13 @@ export default function Home() {
         </div>
 
         <div>
-          <Textarea   value ="I am text area"></Textarea>
+          <Textarea    value ="I am text area"></Textarea>
         </div>
 
 
         <div>
           <Checkbox  value ="I am text area"></Checkbox>
         </div>
-
-
       </div>
       );
 }
